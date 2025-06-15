@@ -43,3 +43,8 @@ http://localhost:8080/index.html
 
 ## 声明
 本项目作为面试的Demo产品请进行有效参考。
+
+## 项目效果
+![首页展示](docs/images/homepage.png)
+![下单展示](docs/images/下单.png)
+![订单信息展示](docs/images/订单信息.png)
